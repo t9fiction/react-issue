@@ -95,7 +95,7 @@ function Home() {
           <div className='mem_row'>
             <div className='mem_col'>
               <h5>Yearly</h5>
-              <h2>$10</h2>
+              <h2>$20</h2>
               <h6>Per year </h6>
               <a href='#/'>Select</a>
             </div>
